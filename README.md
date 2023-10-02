@@ -5,7 +5,8 @@ Hello, I'm Chumpetch a King Mongkut's University of Technology North Bangkok stu
 - Querying data using SQL.
 - Developing dashboards on Tableau and Power Bi.
 - Data analysis and reporting using Google Sheets and Excel.
-
+- Machine learning
+- Data Cleansing
 ### 📚 Projects
 
 Welcome to my portfolio, where I showcase my [projects].
