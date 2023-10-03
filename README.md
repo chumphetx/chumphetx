@@ -9,7 +9,7 @@ Hello, I'm Chumpetch a King Mongkut's University of Technology North Bangkok stu
 - Data Cleansing
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/chumphetx/Portfolio)).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/chumphetx/Portfolio).
 
 ### 🛠️ Tools
 
