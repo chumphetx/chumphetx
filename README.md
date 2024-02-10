@@ -14,8 +14,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/chump
 ### 🛠️ Tools
 
 - Language: SQL, Python
-- Database: Google BigQuery, PostgreSQL, MySQL
-- Visualization: Tableau, Power Bi
+- Database: MySQL
+- Visualization: Power Bi,Tableau
 
 ### 👋🏻 Connect with Me
 
